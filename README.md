@@ -41,3 +41,5 @@ The dataset includes simulated financial data with the following columns:
 2. Navigate to the **Dashboard** sheet
 3. Use slicers to filter by Region, Product, Campaign Group, or Segment
 4. Review KPIs, charts, and insights to explore financial performance
+![image](https://github.com/user-attachments/assets/5a551296-c4de-4317-a678-689058d5b06b)
+
